@@ -1,7 +1,7 @@
 # COVID 19 Data Plotter
 
 
-In this project, the collected data about the COVID 19 pandemic from the John Hoppkins university is read and some example plots are generated.
+In this project, the collected data about the COVID 19 pandemic from the John Hopkins university is read and some example plots are generated.
 
 ## Usage
 
